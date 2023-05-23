@@ -92,7 +92,7 @@ header .navbar a:hover{
 .home{
   display: flex;
   align-items: center;
-  background:url(../images/home.jpg) no-repeat;
+  /* background:url(../images/home.jpg) no-repeat; */
   background-size: cover;
   background-position: center;
   flex-wrap: wrap;
@@ -109,7 +109,7 @@ header .navbar a:hover{
 }
 
 .home .content h3{
-  color:#fff;
+  color:#ffa600;
   font-size: 5.5rem;
   text-transform: uppercase;
 }
@@ -129,7 +129,7 @@ header .navbar a:hover{
 }
 
 .home .content .btn:hover{
-  color:#fff;
+  color:#d44e00;
   background:none;
   border-color: #fff;
 }
